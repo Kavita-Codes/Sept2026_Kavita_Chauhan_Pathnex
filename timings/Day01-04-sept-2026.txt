@@ -2,4 +2,4 @@
 4 Hours - Lectures
 30 Minutes - Revision
 1 Hour - Coding
-30 Minutes - Git
+30 Minutes - Git.
